@@ -1,4 +1,13 @@
-
+/* <h1>Estudo da Utilização de Argumentos</h1>
+* O Argumento é utilizada para entrada de dados via prompt de comandos
+* <p>
+* <b>Note:</b> Leia atentamente a documentação desta classes
+* para desfrutar dos recursos oferecidos pelo autor
+*
+* @author  Vagton A F
+* @version 1.0
+* @since   15/08/2024
+*/
 public class AboutMe {
 
     public static void main(String[] args) throws Exception {

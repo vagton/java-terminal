@@ -1,6 +1,16 @@
 import java.util.Locale;
 import java.util.Scanner;
 
+/* <h1>Estudo da Utilização da Classe Scanner</h1>
+* A Classe Scanner é utilizada para entrada de dados
+* <p>
+* <b>Note:</b> Leia atentamente a documentação desta classes
+* para desfrutar dos recursos oferecidos pelo autor
+*
+* @author  Vagton A F
+* @version 1.0
+* @since   15/08/2024
+*/
 public class AboutMe2 {
     public static void main(String[] args) {
         // Criando uma instância do Scanner para capturar as entradas do usuário
